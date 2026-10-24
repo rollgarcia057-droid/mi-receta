@@ -31,4 +31,10 @@ agregar tiempo de enfriamiento a la receta:
 ```
 Tiempo de enfriamiento: 30 minutos
 ```
+# Tiempo de reposo
+
+agregar tiempo de reposo a la receta: 
+```
+Tiempo de reposo: 30 minutos
+```
 
