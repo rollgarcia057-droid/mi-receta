@@ -37,4 +37,10 @@ agregar tiempo de reposo a la receta:
 ```
 Tiempo de reposo: 30 minutos
 ```
+# Tiempo de descongelación
+
+agregar tiempo de descongelación a la receta: 
+```
+Tiempo de descongelación: 30 minutos
+```
 
