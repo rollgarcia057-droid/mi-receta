@@ -12,3 +12,10 @@ agregar tiempo de cocción a la receta:
 Tiempo de cocción: 30 minutos
 ```
 
+# Tiempo de descanso
+
+agregar tiempo de descanso a la receta: 
+```
+Tiempo de descanso: 30 minutos
+```
+
