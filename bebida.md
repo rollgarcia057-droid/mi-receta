@@ -5,3 +5,7 @@ Ingredientes:
 * lulo 
 * agua 
 * azúcar.
+
+## Preparacion 
+
+* Se licua todo y se sirve frio
