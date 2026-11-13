@@ -6,3 +6,7 @@ Ingredientes:
 * Leche
 * Canela
 * Azucar.
+
+## Tiempo de preparacion:
+
+* 40 minutos
